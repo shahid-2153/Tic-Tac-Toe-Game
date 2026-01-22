@@ -1,3 +1,5 @@
+![Logo](TIC-TAC-TOE.png)
+
 # Tic-Tac-Toe Game ❌⭕  
 
 A clean and interactive **Tic-Tac-Toe** web game built using **HTML, CSS, and JavaScript**.  
